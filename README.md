@@ -30,3 +30,21 @@ Hyderabad was found on the banks of Musi river in 1591. Today that area is known
 
 ---
 
+# Places I Like The Most
+
+xxxx
+
+| Item  | Location  | Cost | 
+|---|---|---|
+|Burger   | Chickfill A  | $7.99  |   
+|  Pizza | Dominos  | $15.99  |   
+|  Dosa | Ramki Bandi  | $7.95  |  
+| Towa Idli  |  Krupa | $4.55  |
+
+***
+
+# Pithy Quotes
+
+>Imitation is suicide. – *Ralph Waldo Emerson*
+
+>Flatter yourself critically. – **Willis Goth Regier*
